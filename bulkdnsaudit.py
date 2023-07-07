@@ -12,7 +12,7 @@ import pandas as pd
 user = "isikan usermu"
 passwd = "isikan passwordmu"
 lokasi = "scripts7/clusterstatus"
-#url = "luca.jagoanhosting.com:2087"
+
 print("\n==============================")
 print("=  BULK DNS CLUSTER AUDITOR  =")
 print("==============================")
