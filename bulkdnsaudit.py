@@ -15,7 +15,7 @@ lokasi = "scripts7/clusterstatus"
 
 print("\n==============================")
 print("=  BULK DNS CLUSTER AUDITOR  =")
-print("==============================")
+print("==============kuliOnline0011==")
     
 def nggoleki():    
     options = webdriver.ChromeOptions()
